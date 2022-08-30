@@ -1,4 +1,4 @@
-### Hi there 👋
+### 안녕하세요 강병우입니다! 👋
 
 <!--
 **vkekd25/vkekd25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
