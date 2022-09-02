@@ -1,4 +1,5 @@
-### 안녕하세요 강병우입니다! 👋
+### Welcome to 병우 World! 👋
+# 안녕하세요! 데이터에 관심많은 강병우(Eric Kang)입니다😄
 
 <!--
 **vkekd25/vkekd25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
