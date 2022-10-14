@@ -3,7 +3,7 @@
 
 이 깃헙은 AI부트캠프에서 7개월간, 그리고 개인적으로 진행한 머신러닝/딥러닝 프로젝트들로 구성되어있습니다.
 
-/ 📧 E-mail: vkekd25@gmail.com
+* 📧 E-mail: vkekd25@gmail.com
 
 <!--
 **vkekd25/vkekd25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
